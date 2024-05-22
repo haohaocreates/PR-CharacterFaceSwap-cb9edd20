@@ -1,0 +1,14 @@
+[project]
+name = "characterfaceswap"
+description = "Character face swap with LoRA and embeddings."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ArtBot2023/CharacterFaceSwap"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "CharacterFaceSwap"
+Icon = ""
